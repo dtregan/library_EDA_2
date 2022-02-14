@@ -1,4 +1,4 @@
-# library_EDA
+# library_EDA_2
 Exploratory Data Analysis & Implementation/Testing of New Features
 
 Contains an IPYNB file, x3 CSV files (books.csv, bookloans.csv & members.csv) as well as examples of the generated JSON files.
